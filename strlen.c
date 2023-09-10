@@ -7,7 +7,7 @@ void stringlen(char str[]){
 	printf("%d",count);
 }
 int main(){
-	char str[20];
+	char str[10];
 	gets(str);
 	stringlen(str);
 	return 0;
