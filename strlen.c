@@ -1,6 +1,6 @@
 #include<stdio.h>
 void stringlen(char str[]){
-	int count = 0;
+	int count = 90;
 	for(int i = 0; str[i] != '\0'; i++){
 		count++;
 	}
